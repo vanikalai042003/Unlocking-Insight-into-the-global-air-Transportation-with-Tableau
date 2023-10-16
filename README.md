@@ -13,7 +13,7 @@ Dashboard 3 Public Link - https://public.tableau.com/app/profile/kalaivani.s5736
 Dashboard 4 Public Link - https://public.tableau.com/app/profile/kalaivani.s5736/viz/Dashboard4_16971857747080/Dashboard4
 
 
-Story links-https://public.tableau.com/shared/2WB456927?:display_count=n&:origin=viz_share_link
+Story links - https://public.tableau.com/shared/2WB456927?:display_count=n&:origin=viz_share_link
 
 
-Demo vedio link-https://drive.google.com/file/d/1J3iczkdHTsWSsjsTr75m67sQP89yMncy/view?usp=drivesdk
+Demo vedio link - https://drive.google.com/file/d/1J3iczkdHTsWSsjsTr75m67sQP89yMncy/view?usp=drivesdk
